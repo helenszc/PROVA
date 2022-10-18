@@ -18,3 +18,6 @@ são as ramificações do repositório.
 
 8 - O que é pull request?
 é uma solicitação de alteração
+
+9 - O que é fork?
+copiar o repositório de terceiros.
