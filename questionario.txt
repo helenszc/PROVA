@@ -11,4 +11,7 @@
 é a mesclagem de duas ou mais branches.
 
 5 - O que é pull?
-é puxar as informações do repositório remoto para o local. 
+é puxar as informações do repositório remoto para o local .
+
+7 - O que é branch?
+são as ramificações do repositório.
