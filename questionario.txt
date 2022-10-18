@@ -21,3 +21,6 @@ são as ramificações do repositório.
 
 9 - O que é fork?
 copiar o repositório de terceiros.
+
+10 - O que é um VCS?
+software de controle de alterações.
