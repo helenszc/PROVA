@@ -1,2 +1,5 @@
 1-o que é clone?
-é uma cópia do repositório
+é uma cópia do repositório.
+
+2 - O que é commit?
+é o empacotamento das alterações realizadas no projeto.
