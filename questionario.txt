@@ -9,3 +9,6 @@
 
 4 - O que é merge?
 é a mesclagem de duas ou mais branches.
+
+5 - O que é pull?
+é puxar as informações do repositório remoto para o local. 
