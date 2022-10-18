@@ -3,3 +3,6 @@
 
 2 - O que é commit?
 é o empacotamento das alterações realizadas no projeto.
+
+3 - O que é um repositório?
+é a pasta do projeto.
